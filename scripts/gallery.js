@@ -1,4 +1,4 @@
-const images = ['../images/HTML.png','../images/CSS.jpeg','../images/JS.jpg'];
+const images = ['../images/HTML.png','../images/CSS.jpeg','../images/JS.png'];
 const previousButton = document.getElementById('prev-button');
 const nextButton = document.getElementById('next-button');
 const image = document.querySelector('.images');

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: rgb(60, 102, 126);
+    margin: 30px;
+}
+
+.gallery{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.images{
+    width: 204px;
+    height: 192px;
+    padding:20px;
+    border-radius: 30px;
+    box-shadow: 18px 13px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+
+.buttons{
+    margin: 25px;
+    border-radius: 15px;
+    border-color: #BDB76B;
+    box-shadow: 20px;
+    font-size: 25px;
+    height: 60px;
+    width: 180px;
+    background-color: #BDB76B;
+    color: white;
+}
+
+#under-image{
+    font-size: 20px;
+}
